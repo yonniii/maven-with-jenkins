@@ -1,6 +1,8 @@
 package hello;
 
 public class VendingMachine {
+    private int price;
+    
     public void printMenu() {
 
     }
