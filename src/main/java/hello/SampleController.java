@@ -43,7 +43,7 @@ public class SampleController {
                 System.out.println("액수가 부족합니다.");
                 end = true;
             }
-            if (buttonn == 1) {
+            if (button == 1) {
                 totalPrice += calcTotalPrice(1000, 1);
                 userMoney = calcUserMoney(userMoney, totalPrice);
             }
