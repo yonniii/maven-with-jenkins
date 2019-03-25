@@ -32,7 +32,7 @@ public class SampleController {
 //        System.out.println("userMoney: " + userMoney + ", totalPrice: " + totalPrice);
 //        System.out.println("after calculate");
 //        System.out.println("price: " + calcMoney);
-        int button;
+        int buttonn;
         System.out.println("사용자가 가지고 있는 액수 : " + userMoney);
 
         while (!end) {
