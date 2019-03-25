@@ -85,7 +85,7 @@ public class SampleController {
     }
 
     private static void printMenu(){
-        System.out.println("---------------------------");
+        System.out.println("-----------------------------");
         System.out.println("1.콜라 1000");
         System.out.println("2.환타 1500");
         System.out.println("3.사이다 1300");
